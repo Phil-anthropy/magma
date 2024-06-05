@@ -9,7 +9,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM fluent/fluentd:v1.14.6-debian-1.0
+FROM fluent/fluentd:v1.16-debian-1
 USER root
 RUN gem install \
     elasticsearch:7.13.0 \
