@@ -9,6 +9,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM postgres:13.3
+FROM postgres:13.13
 
 COPY --chmod=755 create_magma_dbs.sh /docker-entrypoint-initdb.d/create_magma_dbs.sh
