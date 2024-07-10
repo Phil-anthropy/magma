@@ -1,3 +1,4 @@
 alembic==1.6.5
 psycopg2-binary==2.8.6
 sqlalchemy==1.4.15
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
