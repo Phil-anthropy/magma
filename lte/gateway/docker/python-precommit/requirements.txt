@@ -118,3 +118,4 @@ typing-extensions==3.7.4.1
     # via wemake-python-styleguide
 wemake-python-styleguide==0.15.2
     # via -r requirements.in
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
