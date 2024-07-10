@@ -1664,3 +1664,4 @@ setuptools==49.6.0 \
     #   -r requirements.in
     #   grpcio-tools
     #   jsonschema
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
