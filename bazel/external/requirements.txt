@@ -1364,7 +1364,7 @@ routes==2.5.1 \
 scapy==2.4.5 \
     --hash=sha256:bc707e3604784496b6665a9e5b2a69c36cc9fb032af4864b29051531b24c8593
     # via -r requirements.in
-sentry-sdk==1.8.0 \
+sentry-sdk==2.8.0 \
     --hash=sha256:5daae00f91dd72d9bb1a65307221fe291417a7b9c30527de3a6f0d9be4ddf08d \
     --hash=sha256:9c68e82f7b1ad78aee6cdef57c2c0f6781ddd9ffa8848f4503c5a8e02b360eea
     # via -r requirements.in
