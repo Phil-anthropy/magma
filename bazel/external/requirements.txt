@@ -315,7 +315,7 @@ envoy==0.0.3 \
     --hash=sha256:22b02009cfda2cf2cdb94a75a15ac3fd910aea8685c53e8e03715c7e9d8e8bde \
     --hash=sha256:789d274f8bc00401848678c0ee18199c1a57901749ed6b1a03a3ea53ec72ceef
     # via -r requirements.in
-eventlet==0.30.2 \
+eventlet==0.37.0 \
     --hash=sha256:1811b122d9a45eb5bafba092d36911bca825f835cb648a862bbf984030acff9d \
     --hash=sha256:89cc6dbfef47c4629cefead5fde21c5f2b33464d57f7df5fc5148f8b4de3fbb5
     # via -r requirements.in
@@ -641,7 +641,7 @@ jinja2==3.1.2 \
     # via
     #   -r requirements.in
     #   flask
-jsonpickle==2.2.0 \
+jsonpickle==3.3.0 \
     --hash=sha256:7b272918b0554182e53dc340ddd62d9b7f902fec7e7b05620c04f3ccef479a0e \
     --hash=sha256:de7f2613818aa4f234138ca11243d6359ff83ae528b2185efdd474f62bcf9ae1
     # via -r requirements.in
