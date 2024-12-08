@@ -91,7 +91,7 @@ pydocstyle==6.0.0
     # via flake8-docstrings
 pyflakes==2.3.1
     # via flake8
-pygments==2.8.1
+pygments==2.15.0
     # via wemake-python-styleguide
 pyyaml==5.4
     # via bandit
